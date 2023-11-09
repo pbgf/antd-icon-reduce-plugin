@@ -1,0 +1,19 @@
+{
+  "name": "antd-icon-reduce-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "antd-icon-reduce-plugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pbgf/antd-icon-reduce-plugin.git"
+  },
+  "author": "pbgf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pbgf/antd-icon-reduce-plugin/issues"
+  },
+  "homepage": "https://github.com/pbgf/antd-icon-reduce-plugin#readme"
+}
